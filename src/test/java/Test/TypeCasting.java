@@ -27,5 +27,16 @@ public class TypeCasting {
 		System.out.println("y= "+y);
 		System.out.println("z= "+z);
 		System.out.println("");
-	}                                   
+	}    
+	
+	@Test                                                    
+	public void testing() {                     
+		                                                     
+		double a=3.8, b=2.5;                                 
+		                                                     
+		System.out.println("------Just For Tesing---------");   
+		                            
+	}                                                        
+	                                                         
+	                                                         
 }
