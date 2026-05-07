@@ -26,5 +26,6 @@ public class TypeCasting {
 		int z=(int)a/(int)b;
 		System.out.println("y= "+y);
 		System.out.println("z= "+z);
+		System.out.println("");
 	}                                   
 }

@@ -33,6 +33,7 @@ public void preIncrement() {
         	 int x = 10;
         
        System.out.println("Continue Statement");
+       System.out.println("");
              do {
                 x++;
                 if(x == 15){
