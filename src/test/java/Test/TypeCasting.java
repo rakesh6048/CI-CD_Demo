@@ -35,6 +35,7 @@ public class TypeCasting {
 		double a=3.8, b=2.5;                                 
 		                                                     
 		System.out.println("------Just For Tesing---------");
+		System.out.println("------Just For Tesing---------");
 		
 	}   
 	    

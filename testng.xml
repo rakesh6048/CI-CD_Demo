@@ -1,4 +1,4 @@
-<suite name="demo Suite">
+<suite name="demo Suiteee">
 	<test thread-count="5" name="test">
 		<classes>
 			<class name="Test.PreAndPostIncrerment"></class>
