@@ -56,6 +56,7 @@ public class SerializationAndDeserialization implements Serializable{
 			    
 		   }catch(Exception e) {
 			   System.out.println(e);
+			   System.out.println("");
 		   }
 		   
 
