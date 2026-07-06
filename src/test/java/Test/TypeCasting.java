@@ -14,6 +14,8 @@ public class TypeCasting {
 		double c=x/2;
 		System.out.println(b);
 		System.out.println(c);
+
+		System.out.println("------ImplicitWait---------");
 	}
 	
 	@Test                                  
@@ -27,6 +29,7 @@ public class TypeCasting {
 		System.out.println("y= "+y);
 		System.out.println("z= "+z);
 		System.out.println("");
+		System.out.println("------ExplicitWait---------");
 	}    
 	
 	@Test                                                    
