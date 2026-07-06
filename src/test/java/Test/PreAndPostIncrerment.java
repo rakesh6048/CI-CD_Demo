@@ -44,6 +44,7 @@ public void preIncrement() {
                 }   
                 System.out.print("value of x : " + x );
                 System.out.print("\n");
+                System.out.print("\n");
              } while( x < 20 );
         }
 }                                  
