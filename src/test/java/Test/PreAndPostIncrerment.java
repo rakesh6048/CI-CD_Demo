@@ -55,7 +55,10 @@ public class PreAndPostIncrerment {
 		System.out.println("PreIncrement Result");                                          
 
 		System.out.println("a = "+a);                                                       
-		System.out.println("b = "+b);                                                       
+		System.out.println("b = "+b);  
+		
+		System.out.println("a = "+a); 
+		System.out.println("b = "+b);  
 	}                                                                               
 
 	@Test                                                                           
