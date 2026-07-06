@@ -66,7 +66,9 @@ public class PreAndPostIncrerment {
 		int x = 10;                                                                
 
 		System.out.println("Continue Statement");                                        
-		System.out.println("");                                                          
+		System.out.println("");  
+		System.out.println("");  
+		System.out.println("");  
 		do {                                                                       
 			x++;                                                                    
 			if(x == 15){                                                            
