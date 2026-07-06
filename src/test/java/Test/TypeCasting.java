@@ -46,6 +46,10 @@ public class TypeCasting {
 		System.out.println("------Just For Tesing---------");
 		System.out.println("------Just For Tesing---------");
 		
+		
+		System.out.println("------Just For Tesing---------");
+		System.out.println("------Just For Tesing---------");
+		System.out.println("------Just For Tesing---------");
 	}   
 	    
 	                                                         
