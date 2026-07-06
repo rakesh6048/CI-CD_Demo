@@ -35,7 +35,9 @@ public class TypeCasting {
 	@Test                                                    
 	public void testing() {                     
 		                                                     
-		double a=3.8, b=2.5;                                 
+		double a=3.8, b=2.5;   
+		
+		double c=3.8, d=2.5;     
 		                                                     
 	
 		System.out.println("------Just For Tesing---------");
