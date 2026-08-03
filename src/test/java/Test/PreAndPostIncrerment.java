@@ -35,6 +35,7 @@ public class PreAndPostIncrerment {
 	@Test
 	public void tstContinue() {
 		int x = 10;
+		int y= 20;
 
 		System.out.println("Continue Statement");
 		System.out.println("");
