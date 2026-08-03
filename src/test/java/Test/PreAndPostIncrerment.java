@@ -18,6 +18,10 @@ public class PreAndPostIncrerment {
 		System.out.println("a = "+a);
 		System.out.println("a = "+a);
 
+		System.out.println("a = "+a);
+		System.out.println("a = "+a);
+
+
 	}
 
 	@Test                                
