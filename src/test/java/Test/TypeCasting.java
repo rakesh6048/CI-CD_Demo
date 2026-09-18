@@ -16,6 +16,7 @@ public class TypeCasting {
 		System.out.println(c);
 
 		System.out.println("------ImplicitWait---------");
+		System.out.println("------ImplicitWait---------");
 	}
 	
 	@Test                                  
